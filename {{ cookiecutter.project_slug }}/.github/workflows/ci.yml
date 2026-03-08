@@ -34,7 +34,7 @@ jobs:
         go build -v
         go test ./...
     - name: Run staticcheck
-      uses: dominikh/staticcheck-action@v1.4.0
+      uses: dominikh/staticcheck-action@v1.4.1
       with:
         version: latest
         install-go: false
