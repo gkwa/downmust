@@ -6,7 +6,7 @@ toolchain go1.26.2
 
 require (
 	github.com/go-git/go-git/v5 v5.17.2
-	github.com/magefile/mage v1.17.0
+	github.com/magefile/mage v1.17.1
 )
 
 require (
